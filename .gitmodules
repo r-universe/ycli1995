@@ -5,3 +5,6 @@
 [submodule "bbknnR"]
 	path = bbknnR
 	url = https://github.com/ycli1995/bbknnr
+[submodule "easy.utils"]
+	path = easy.utils
+	url = https://github.com/ycli1995/easy.utils
