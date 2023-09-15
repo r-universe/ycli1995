@@ -8,3 +8,6 @@
 [submodule "easy.utils"]
 	path = easy.utils
 	url = https://github.com/ycli1995/easy.utils
+[submodule "hdf5r.Extra"]
+	path = hdf5r.Extra
+	url = https://github.com/ycli1995/hdf5r.extra
